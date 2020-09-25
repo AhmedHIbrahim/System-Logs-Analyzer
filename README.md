@@ -14,6 +14,7 @@ A backend priodically running bash script that collects system threats, errors a
 9. Unusual scheduled tasks
 
 ## Used technologies
-1. crontab
-2. Hashing
-3. Symmetric Encryption
+1. Crontab
+2. Advanced grep
+3. Hashing
+4. Symmetric Encryption
